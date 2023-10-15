@@ -1,0 +1,16 @@
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.pdb
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache
+D:\Study\.net Core\trial of layer Project\WebAPI\BLL\bin\Debug\netcoreapp3.1\DAL.dll.config
